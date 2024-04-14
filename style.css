@@ -1,0 +1,29 @@
+div{
+width:100px; height:100px; float:left}
+
+#red2{background:red;
+position: absolute; top: 1px; left: 400px;}
+
+#green2{background:green;
+position: absolute; top: 80px; left: 479px;}
+
+#blue2{background:blue;
+position: absolute; top: 160px; left: 550px;}
+
+#red1{background:red;
+position: absolute; top: 1px; left: 1px;}
+
+#green1{background:green;
+position: absolute; top: 80px; left: 80px;}
+
+#blue1 {background:blue;
+position: absolute; top: 160px; left: 160px;}
+
+#red3 {background:red;
+position:relative; top: 1px; left: 800px;}
+
+#green3 {background:green;
+position: absolute; top: 80px; left: 880px;}
+
+#blue3 {background:blue;
+    position:relative; top: 140px; left: 840px;}
